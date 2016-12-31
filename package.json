@@ -5,7 +5,7 @@
   "readme": "README.md",
   "maintainers": [],
   "author": "ANDREI",
-  "main": "discord_bot.js"
+  "main": "discord_bot.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PyroPod/m8trix"
