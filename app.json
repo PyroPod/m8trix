@@ -1,0 +1,8 @@
+{
+  "name": "M8triX",
+  "description": "A discord bot with numerous of utilities.",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
