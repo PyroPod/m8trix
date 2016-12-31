@@ -1,10 +1,3 @@
-<div align="center">
-  <br />
-  <p>
-    <a href="https://discord.js.org"><img src="m8logo.png" width="546" alt="discord.js" /></a>
-  </p>
-  <br />
-  
 # About
 A discord bot for chatting utilities It is currently under development with the lead of AndriX(Andrei).
 It have music player(beta) and some cleverbot actions.
