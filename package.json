@@ -8,8 +8,8 @@
   "main": "discord_bot.js"
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PyroPod/chatbot"
-}
+    "url": "git+https://github.com/PyroPod/m8trix"
+ },
 
   "license": "GPL-2.0",
   "dependencies": {
@@ -31,8 +31,8 @@
     "urban": "^0.3.0",
     "wikijs": "0.1.x",
     "yahoo-finance": "0.2.x",
-    "youtube-node": "1.2.x"
-	"ejs": "2.4.1",
+    "youtube-node": "1.2.x",
+    "ejs": "2.4.1",
     "express": "4.13.3"
   },
 }
